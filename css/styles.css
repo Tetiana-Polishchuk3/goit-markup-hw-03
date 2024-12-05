@@ -210,12 +210,8 @@ button {
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
-  width: 162px;
-  padding-top: 120px;
   margin: 0 auto;
   margin-bottom: 72px;
-  display: flex;
-  white-space: nowrap;
 }
 .team-name {
   font-weight: 500;
