@@ -132,7 +132,7 @@ p {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
-  min-width: 496px;
+  max-width: 496px;
   margin: 0 auto;
 }
 button {
@@ -290,7 +290,7 @@ button {
   background: #2e2f42;
   padding: 100px 0;
 }
-.logo .footer-logo {
+.footer-logo {
   display: inline-block;
   margin-bottom: 16px;
 }
